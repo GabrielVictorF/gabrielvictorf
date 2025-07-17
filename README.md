@@ -1,35 +1,78 @@
-<h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
-</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-### Hi there 👋
+###
 
-<!--
-**gb8may/gb8may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="60" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+</div>
 
-A little about me:
+###
 
-- 🇨🇦  Fortaleza, **Brazil**.
-- 🔭  I’m currently working with **AWS** and **Kubernetes**.
-- 🌱  I’m currently learning everything related to **DevOps** and **automation**.
-- 📚  Self-taught
-- ⚡  Fun fact: Home automation is one of my hobbies.
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-290047135/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-### ⚡ Skills:
-- ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+###
 
-### 🛠 Tools:
-- ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=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qjrcapwpqgASkHA9uTX2FyCODrZ5ZHPduVfyON2eYX3A6j8v7b+1xKg+Vx7eSyCAgICAgIPFGJ9MT1i9rqvfzfUVeYN/E8Zy4mM8/wBtf0J7NT+4i+gKmyf5S9bx/wCKFG2nUhbNDPbmvjMZPU5pLgPiHeSn8G8amFH1nFMTF4eeoOsENPG+mnkEfPL2OdkwggAtJ4EEXz61jl4bWtuPLbpnMx46dt5ezXzWGGaEU0EgkLntc9zc2ANzAxbiSbbupY4mC1bbnw26nzMeSnbWXx7NKUuqJJrc2OMtvwxOIsPAHyW/Nt4049GxTOSby0LSX+DL7qT6Sq7H7h6DN/hLGNC+0U3v4PrCvMu+x47BuM0f23AKh+3tY8RD5NK0wnglh/1I3t+JaQD42W9J7bxLlnpF8c1lkGgKr0eqgkJw4ZWhxOQAccLr9wJVzlicmPUPI8a/w5+40/U+kVc8gOLHKQ0jO4acLbd4ATFE48flnkX+bkblsGjKYQQxQ/6cbG/EAAlU157rzL1uCkUxxWHzTafpI3uifUxtew2c1zsJB6lmMVpjcQ0tysVJ7bS4mtukKCemkBmhkkDXcjhc10gfwtbMC9r9ikYK5KXhB52bj3xTP2oWrwJq6YN38vEfgHAnyurDkaikqHh7+eO1tio/t7SPSUZEBAQEBAQeJT0xMbZ1pXUmqmnmlY+LDJI97bucCA4ki4t2qxx8uK0089n6XlyZZtC+aPhMUUURIJZGxhtuuGgG3goFp3MyvcOPtpFfw9eltGx1cToZW3aeIyLSNzgeBCY7zTy1z4a5q9sqBW7P6hhPJSRyN4XvG74jMKyx86uvKgy9HyV80lFFs/qXkcrJHE3jYmR9uwZBZvzq68GLo+S3m86X7Q+io6OIQxCwGZJzc5x3uJ61W3yTedr/AI+CuGuofTVxY43sBzc17R1XIIzWtZ1LfJTurMM90dqNVRSxSOfDaOWN5s5xNmuBNhh35KwycuLRpQYulZYyd0tICrpeijxqApEE6lnuntR5XSvlpnMLXuLsDjhLSTcgHda91Y4eZFY1Lz/J6Ve15mhoDUeVkrJalzA1jg/A04i4g3AJ3AXsmbmRaNQzxelXrkibtCCrvva/8RGmf6f1KqJ55Z43xESPLsLi5rhfhuIVhi5Va1iNKHl9MyZMk5KuWzUStJsRE0dZfcfK6kTzsaJXpWf7hbNV9UmUTuWe/lJbEA2wsYDvwjeSesqBm5E38Lbh9PjB5laVGWiUBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBB//2Q==) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) !![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?&logo=puppet&logoColor=FFFFFF) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=FFFFFF) [NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielvictorf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gabrielvictorf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### 📈 Stats 
- 
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=gabrielvictorf&theme=cobalt&show_icons=true)](https://github.com/gabrielvictorf/github-readme-stats)
+###
 
-### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvictorf&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvictorf/gabrielvictorf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvictorf/gabrielvictorf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielvictorf/gabrielvictorf/output/pacman-contribution-graph.svg">
+</picture>
 
-<hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb8may/)](https://www.linkedin.com/in/gb8may/)
- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@gb8may
+###
